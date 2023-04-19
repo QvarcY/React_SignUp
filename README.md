@@ -1,4 +1,6 @@
-![Alt signup](README_Files/1.png "SignUp Registration form")
+Simple and intresting looking React registration SignUp form with nice template
+![Alt signup](README_Files/top.png "SignUp Registration form")
+![Alt signup](README_Files/2.png "SignUp Registration form")
 
 # Getting Started with Create React App
 
