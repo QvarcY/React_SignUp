@@ -1,3 +1,5 @@
+![Alt signup](README_Files/1.png "SignUp Registration form")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
